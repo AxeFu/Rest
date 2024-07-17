@@ -1,0 +1,125 @@
+[13:02:24]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6"}
+[13:03:20]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6"}
+[13:03:44]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Artem"}
+[13:03:52]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Artem"}
+[13:04:10]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6"}
+[13:04:14]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6"}
+[13:07:10]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6"}
+[13:07:50]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:07:57]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:09:49]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:18:59]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:21:21]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:21:34]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:41:08]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:41:11]LOG: synchronization
+{"serviceName":"uses","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:41:19]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:42:06]LOG: synchronization
+{"serviceName":"usrs","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:42:20]LOG: synchronization
+{"serviceName":"usrs","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:42:29]LOG: synchronization
+{"serviceName":"users","command":"get"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Daniel","lastName":"Kulev"}
+[13:42:39]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6"}
+[13:43:39]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Artem","lastName":"Moshkin","login":"axeplay"}
+[13:43:45]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Artem","lastName":"Moshkin","login":"axeplay"}
+[13:43:54]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","firstName":"Artem","lastName":"Moshkin","login":"axeplay"}
+[13:44:10]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"ac208def473fd511638910b74c9211f6","login":"artemmoshkin2002"}
+[13:45:01]LOG: synchronization
+null
+{"refresh":"42100c62e375289a0017f42e99d56252"}
+[13:47:09]LOG: synchronization
+null
+{"refresh":"42100c62e375289a0017f42e99d56252"}
+[13:50:58]LOG: synchronization
+null
+{"refresh":"42100c62e375289a0017f42e99d56252"}
+[13:51:10]LOG: synchronization
+null
+{"authorization":"42100c62e375289a0017f42e99d56252"}
+[13:51:47]LOG: authorization
+null
+{"login":"artemmoshkin2002","hash":"A78***154"}
+[13:51:47]LOG: Пользователь: artemmoshkin2002 вошел в систему
+[13:51:47]LOG: Пользователь авторизован! id: 32
+[13:53:11]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"c70a005b0d115964ba261f0a062e486b"}
+[13:53:53]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"c70a005b0d115964ba261f0a062e486b", "firstName":"Gog"}
+[13:54:20]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"d290cb0ec485b29bd3c2f5df85c244a7"}
+[13:54:52]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"d290cb0ec485b29bd3c2f5df85c244a7"}
+[13:55:16]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"018fa2b619ef2010a1752f1d6858b5f8"}
+[13:56:02]LOG: synchronization
+{}
+{"refresh":"018fa2b619ef2010a1752f1d6858b5f8"}
+[13:56:10]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"018fa2b619ef2010a1752f1d6858b5f8"}
+[13:57:08]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"dee8511402a2c8d6e26288f3f39ff3dc"}
+[13:57:46]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"6b03d63b6bc40d7830ba443eb714f68e"}
+[14:11:52]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"6b03d63b6bc40d7830ba443eb714f68e"}
+[14:12:27]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"383653930a0ed85cac3e326e11c706f3"}
+[14:12:35]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"refresh":"383653930a0ed85cac3e326e11c706f3"}

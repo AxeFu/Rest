@@ -1,0 +1,30 @@
+[16:04:48]LOG: registration
+null
+{"firstName":"Artem","lastName":"Moshkin","login":"artemmoshkin2002","password":"A78***154"}
+[16:04:48]LOG: Пользователь зарегистрирован! artemmoshkin2002
+[16:05:08]LOG: registration
+null
+{"firstName":"Artem","lastName":"Moshkin","login":"artemmoshkin2002","password":"A78***154"}
+[16:05:08]LOG: Пользователь с таким логином уже существует!
+[16:05:08]ERROR: Query: INSERT INTO `server_base`.`users` (`first_name`, `last_name`, `login`, `hash`) VALUES ('Artem', 'Moshkin', 'artemmoshkin2002', 'A78***154');
+[16:05:08]ERROR: Something went wrong Duplicate entry 'artemmoshkin2002' for key 'login_UNIQUE'
+[16:05:38]LOG: authorization
+null
+{"login":"artemmoshkin2002","password":"A78***154"}
+[16:05:38]LOG: Пользователь: artemmoshkin2002 вошел в систему
+[16:05:38]LOG: Пользователь авторизован! id: 2
+[16:06:59]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"e660ee0d9b4d8d61659e66548b9266at"}
+[16:07:18]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"e660ee0d9b4d8d61659e66548b9266at", "firstName":"Gog"}
+[16:07:23]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"e660ee0d9b4d8d61659e66548b9266at", "firstName":"Gog"}
+[16:08:12]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"refresh":"27c7193e2c71t9d2e1t7a02e8095020f", "firstName":"Gog"}
+[16:09:02]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"ac91b874853df6e5a3a4b959586454c5"}

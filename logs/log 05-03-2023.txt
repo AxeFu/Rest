@@ -1,0 +1,11 @@
+[19:37:09]LOG: authorization?null
+{"login":"artemmoshkin2002","password":"A78***154"}
+[19:37:09]LOG: Неправильный логин или пароль! java.lang.Exception: Failed to execute query!
+[19:37:16]LOG: authorization?null
+{"login":"artemmoshkin2002","password":"A78***154"}
+[19:37:16]LOG: Неправильный логин или пароль! java.lang.Exception: Failed to execute query!
+[21:33:16]LOG: registration?null
+{"login":"artemmoshkin2002","password":"A78***154","firstName":"Artem","lastName":"Moshkin"}
+[21:33:16]LOG: Пользователь с таким логином уже существует!
+[21:33:16]LOG: Query: INSERT INTO `server_base`.`users` (`first_name`, `last_name`, `login`, `hash`) VALUES ('Artem', 'Moshkin', 'artemmoshkin2002', 'A78***154');
+[21:33:16]ERROR: Something went wrong Duplicate entry 'artemmoshkin2002' for key 'login_UNIQUE'

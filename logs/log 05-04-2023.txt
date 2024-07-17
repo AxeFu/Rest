@@ -1,0 +1,15 @@
+[13:29:28]LOG: registration
+null
+{"firstName":"Artem","lastName":"Moshkin","login":"artemmoshkin2002","password":"A78***154"}
+[13:29:28]LOG: Пользователь зарегистрирован! artemmoshkin2002
+[13:29:42]LOG: authorization
+null
+{"login":"artemmoshkin2002","password":"A78***154"}
+[13:29:42]LOG: Пользователь: artemmoshkin2002 вошел в систему
+[13:29:42]LOG: Пользователь авторизован! id: 4
+[13:30:20]LOG: synchronization
+{"serviceName":"users","command":"getUser"}
+{"authorization":"2265eecc8401eabec876c8cf4f681b44"}
+[13:30:53]LOG: synchronization
+{"serviceName":"users","command":"setUser"}
+{"authorization":"2265eecc8401eabec876c8cf4f681b44", "firstName":"GOG"}

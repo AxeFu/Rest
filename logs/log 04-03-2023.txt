@@ -1,0 +1,7 @@
+[15:33:40]LOG: logs directory was created!
+[15:33:40]LOG: authorization?null
+{"login":"artemmoshkin2002","password":"A78***154"}
+[15:33:40]LOG: Login or password not correct java.lang.Exception: Failed to execute query!
+[15:33:44]LOG: authorization?null
+{"login":"artemmoshkin2002","password":"A78***154"}
+[15:33:44]LOG: Login or password not correct java.lang.Exception: Failed to execute query!
